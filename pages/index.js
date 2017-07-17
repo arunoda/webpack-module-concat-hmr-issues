@@ -7,7 +7,7 @@ export default () => (
   <Layout>
     <div style={{ padding: 100 }}>
       <div><Slider defaultValue={30} /></div>
-      <div><Button>Submit 34555</Button></div>
+      <div><Button>Submit</Button></div>
     </div>
   </Layout>
 )
