@@ -1,0 +1,15 @@
+{
+  "name": "next-hmr-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "antd": "^2.12.0",
+    "next": "beta",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
